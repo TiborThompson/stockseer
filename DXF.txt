@@ -1,0 +1,5 @@
+nice. put this version on git. 
+
+next: 
+include r^2 performance 
+then do 
