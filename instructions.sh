@@ -2,7 +2,7 @@
 # This script sets up the environment and runs the project.
 
 # Navigate to the project directory
-cd /path/to/project
+cd $( dirname -- "$0" )
 
 # Run the setup script to install dependencies and set up the environment
 bash setup_env.sh
