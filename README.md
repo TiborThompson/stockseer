@@ -139,7 +139,7 @@ Potential improvements for future versions:
 
 ## Questions and Support
 
-For any questions, issues, or suggestions regarding this project, please feel free to reach out through the project's repository or contact the maintainer directly.
+For any questions, issues, or suggestions regarding this project, please feel free to reach out through the project's repository or contact me directly.
 
 ---
 
